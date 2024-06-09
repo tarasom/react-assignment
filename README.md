@@ -53,3 +53,8 @@
 4. **Commit Messages:**
     - Consistent and clear commit messages following
       the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) standard.
+
+## Deployment URLs
+
+- **Admin Access:** [https://tarasom.github.io/react-assignment?admin](https://tarasom.github.io/react-assignment?admin) - Use this link for admin access.
+- **Regular User:** [https://tarasom.github.io/react-assignment](https://tarasom.github.io/react-assignment) - Use this link for regular user access.
